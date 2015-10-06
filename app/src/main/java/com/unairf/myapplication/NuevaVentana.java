@@ -29,7 +29,7 @@ public class NuevaVentana extends AppCompatActivity {
         String url = getIntent().getStringExtra("url");
 
 
-        //sdsds
+
 
         webview = (WebView)findViewById(R.id.webView);
         webview.setWebViewClient(new WebViewClient());
