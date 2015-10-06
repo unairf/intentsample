@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_nueva_ventana">NuevaVentana</string>
+    <string name="write_below">Escribe una URL válida:</string>
+    <string name="send_URI">Envía la URL</string>
+    <color name="white">#FFFFFF</color>
+    <color name="blue">#64AFFF</color>
+</resources>
